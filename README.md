@@ -11,7 +11,7 @@ You can check out the live version here:
 https://silviubadic.github.io/Rock-Paper-Scissors-V2/
 
 ## Screenshots
-<img width="1050" alt="8" src="![rps1](https://github.com/user-attachments/assets/0de52dec-81cf-4cf2-bc27-c2b833d37d11)
+<img width="1050" alt="8" src="https://github.com/user-attachments/assets/0de52dec-81cf-4cf2-bc27-c2b833d37d11)
 ">
 <br>
 <br>
