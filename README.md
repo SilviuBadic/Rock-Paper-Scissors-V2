@@ -11,15 +11,13 @@ You can check out the live version here:
 https://silviubadic.github.io/Rock-Paper-Scissors-V2/
 
 ## Screenshots
-<img width="1050" alt="8" src="![rps1](https://github.com/user-attachments/assets/d032cbb3-c50e-4c93-839e-98d43bcc782a)
-">
+<img width="1050" alt="8" src="https://github.com/user-attachments/assets/d032cbb3-c50e-4c93-839e-98d43bcc782a">
 <br>
 <br>
-<img width="1050" alt="7" src="![rps-2](https://github.com/user-attachments/assets/e6f64aac-216c-4f27-aa24-418e754b5c84)
-">
+<img width="1050" alt="7" src="https://github.com/user-attachments/assets/e6f64aac-216c-4f27-aa24-418e754b5c84">
 <br>
 <br>
-<img width="1050" alt="7" src="![rps-3](https://github.com/user-attachments/assets/ae823962-b66f-450f-84fe-c6d0a7f7a534)">
+<img width="1050" alt="7" src="https://github.com/user-attachments/assets/ae823962-b66f-450f-84fe-c6d0a7f7a534">
 <br>
 <br>
 
