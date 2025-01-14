@@ -11,7 +11,8 @@ You can check out the live version here:
 https://silviubadic.github.io/rock-paper-scissors-javascript/html/index.html
 
 ## Screenshots
-<img width="1050" alt="8" src="https://github.com/SilviuBadic/rock-paper-scissors-javascript/assets/130041755/f3d35a5c-f743-4a61-b742-5543487bc1b7">
+<img width="1050" alt="8" src="![rps1](https://github.com/user-attachments/assets/cd74aa95-03f7-492e-972d-6354a8819fd7)
+">
 <br>
 <br>
 <img width="1050" alt="7" src="https://github.com/SilviuBadic/rock-paper-scissors-javascript/assets/130041755/8c21a6fe-3880-429a-b119-96a501b4b381">
