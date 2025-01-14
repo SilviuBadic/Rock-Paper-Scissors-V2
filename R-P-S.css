@@ -1,0 +1,108 @@
+body{
+  background-color: black;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+body h1{
+  color:white;
+  font-size: 36px;
+  margin-left: 10px;
+}
+
+.image{
+  width: 50px;
+  height: 50px;
+}
+
+.image_box{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: black;
+  border: 3px solid white;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.image_box:hover{
+  scale: 1.1;
+}
+
+body h2{
+  color:white;
+  margin-left: 10px;
+}
+
+body h3{
+  color:white;
+  margin-left: 10px;
+}
+
+.results{
+  color: white;
+  margin-left: 10px;
+}
+
+.reset{
+  background-color: black;
+  border: 3px solid white;
+  margin-left: 10px;
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+  border-radius: 10px;
+}
+
+.reset:hover{
+  background-color: white;
+  color: black;
+}
+
+.pressKey{
+  color: white;
+}
+
+.autoplay{
+  background-color: black;
+  border: 3px solid white;
+  margin-left: 10px;
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+  border-radius: 10px;
+}
+
+.autoplay:hover{
+  background-color: white;
+  color: black;
+}
+
+.reset-paragraph{
+  color: white;
+}
+
+.resetScoreYes,
+.resetScoreNo{
+  font-size: 16px;
+  padding: 6px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.text_div{
+  display: block;
+}
+
+
+.resetScoreNo:hover{
+  background-color: black;
+  color: white;
+}
+
+.resetScoreYes:hover{
+  background-color: black;
+  color: white;
+}
