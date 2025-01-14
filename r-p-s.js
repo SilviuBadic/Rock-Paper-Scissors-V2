@@ -63,7 +63,7 @@ rockBtn.addEventListener('click', choseRock = () => {
 findResults.innerHTML =  `Wins: ${score.wins}, Losses: ${score.losses}, Ties: ${score.ties}`;
 pressKey.innerHTML = ``;
 
-seeChoices.innerHTML = `Me <img class="image" src="../pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="../pictures/${computerChoice}-emoji.png" alt="${computerChoice}">  Computer`;
+seeChoices.innerHTML = `Me <img class="image" src="pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="pictures/${computerChoice}-emoji.png" alt="${computerChoice}">  Computer`;
 })
     
 paperBtn.addEventListener('click', () => {
@@ -101,7 +101,7 @@ function chosePaper(){
   findResults.innerHTML =  `Wins: ${score.wins}, Losses: ${score.losses}, Ties: ${score.ties}`;
   pressKey.innerHTML = ``;
 
-  seeChoices.innerHTML = `Me <img class="image" src="../pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="../pictures/${computerChoice}-emoji.png" alt="${computerChoice}"> Computer`;
+  seeChoices.innerHTML = `Me <img class="image" src="pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="pictures/${computerChoice}-emoji.png" alt="${computerChoice}"> Computer`;
 
 }
 
@@ -128,7 +128,7 @@ function choseScissors(){
     console.log(score);
   }   
   findResults.innerHTML =  `Wins: ${score.wins}, Losses: ${score.losses}, Ties: ${score.ties}`;
-  seeChoices.innerHTML = `Me <img class="image" src="../pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="../pictures/${computerChoice}-emoji.png" alt="${computerChoice}"> Computer`;
+  seeChoices.innerHTML = `Me <img class="image" src="../pictures/${myChoice}-emoji.png" alt="${myChoice}"> - <img class="image" src="pictures/${computerChoice}-emoji.png" alt="${computerChoice}"> Computer`;
 
   pressKey.innerHTML = ``;
   let myTextToString = JSON.stringify(score);
