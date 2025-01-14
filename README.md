@@ -1,6 +1,6 @@
 
 
-# Rock Paper Scissors V2
+# Rock Paper Scissors - JavaScript V2
 This is a classic game well know by everybody. I've been focused on implementing JavaScript code, adding interactivity to my buttons. The rule is to defeat the computer after choosing on of the three images (a rock, a paper and some scissors). Rock beats scissors, scissors cut paper, paper beats rock. 
 
 I wanted to make it a bit harder by adding a few features, such as: reseting the game whenever the button is pressed; Autoplay; Thumbnails to show the choices in real time, as well as live text which shows the outputs of the game in real time.
@@ -50,7 +50,7 @@ Other than working with functions, I've managed to deepen my knowledge in constr
 
 Here are some other related projects
 
-[Amazon Project](https://github.com/SilviuBadic/Javascript-Amazon-Project) 
+[Rock-Paper-Scissors JavaScript V1](https://github.com/SilviuBadic/rock-paper-scissors-javascript/blob/main/README.md) 
 
 [Tic-Tac-Toe](https://github.com/SilviuBadic/tic-tac-toe-javascript)
 
