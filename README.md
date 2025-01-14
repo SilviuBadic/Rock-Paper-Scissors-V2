@@ -19,7 +19,7 @@ https://silviubadic.github.io/Rock-Paper-Scissors-V2/
 ">
 <br>
 <br>
-![rps-3](https://github.com/user-attachments/assets/ae823962-b66f-450f-84fe-c6d0a7f7a534)
+<img width="1050" alt="7" src="![rps-3](https://github.com/user-attachments/assets/ae823962-b66f-450f-84fe-c6d0a7f7a534)">
 <br>
 <br>
 
