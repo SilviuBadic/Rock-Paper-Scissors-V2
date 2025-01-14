@@ -8,19 +8,28 @@ I wanted to make it a bit harder by adding a few features, such as: reseting the
 
 ## Demo
 You can check out the live version here:
-https://silviubadic.github.io/rock-paper-scissors-javascript/html/index.html
+https://silviubadic.github.io/Rock-Paper-Scissors-V2/
 
 ## Screenshots
-<img width="1050" alt="8" src="![rps1](https://github.com/user-attachments/assets/cd74aa95-03f7-492e-972d-6354a8819fd7)
+<img width="1050" alt="8" src="![rps1](https://github.com/user-attachments/assets/0de52dec-81cf-4cf2-bc27-c2b833d37d11)
 ">
 <br>
 <br>
-<img width="1050" alt="7" src="https://github.com/SilviuBadic/rock-paper-scissors-javascript/assets/130041755/8c21a6fe-3880-429a-b119-96a501b4b381">
+<img width="1050" alt="7" src="![rps-2](https://github.com/user-attachments/assets/e6f64aac-216c-4f27-aa24-418e754b5c84)
+">
+<br>
+<br>
+![rps-3](https://github.com/user-attachments/assets/ae823962-b66f-450f-84fe-c6d0a7f7a534)
 <br>
 <br>
 
 
-https://github.com/SilviuBadic/rock-paper-scissors-javascript/assets/130041755/a711127a-e5f3-4175-a631-be6197021713
+
+
+https://github.com/user-attachments/assets/6956e99d-120d-4332-bdb4-5ff323d5294e
+
+
+
 
 ## Features
 
