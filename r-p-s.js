@@ -167,8 +167,6 @@ resetBtn.addEventListener('click', () => {
 }
 );
 
-
-
 const resettingScore = () => {
   score = {
     wins : 0,
@@ -182,7 +180,6 @@ const resettingScore = () => {
   pressKey.innerHTML = `Press any circle to start again!`;
   
 }
-
 
 function randomChoice2(){
   let number = Math.random();
@@ -218,7 +215,6 @@ autoplayBtn.addEventListener('click', autoplay = () => {
         choseScissors();
       }
     }, 1200);
-   
   }  
   
   else if(autoplayBtn.innerHTML === `Stop play`){
